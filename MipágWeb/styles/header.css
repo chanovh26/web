@@ -1,0 +1,22 @@
+header{
+    
+    
+}
+.iconos{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    gap: 50px;
+    font-weight: 900;
+}
+.iconos a:hover{
+    color: #ff4800e8;
+    text-decoration: underline;
+    border-bottom: 2px;
+
+}
+
+header img.imagenlogoclase{
+    width: 85px;
+    border-radius: 50%;
+}
